@@ -20,7 +20,7 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/<你的账号>/macos-wechat-dual.git
+git clone https://github.com/aiden-yanzy/macos-wechat-dual.git
 cd macos-wechat-dual
 chmod +x rebuild.sh
 ./rebuild.sh
